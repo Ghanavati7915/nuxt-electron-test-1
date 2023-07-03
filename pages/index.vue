@@ -35,6 +35,7 @@ const deletePost = async (index: number) => {
 
 <template>
   <section>
+    <Hello/>
     <v-col class="pa-6">
       <v-row>
         <v-spacer />
